@@ -18,13 +18,13 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=dongesz&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dongesz&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dongesz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dongesz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dongesz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dongesz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=00000000&hide_border=false&border_color=cccccc)  
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=00000000&border_color=cccccc&hide_border=false)  
 
 ## ☕ Support My Work
 
