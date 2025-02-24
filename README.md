@@ -2,7 +2,7 @@
 
 <h2>👋 Hi, I'm Máté!</h2>
 
-<h3>    🎮 Unity Game Developer passionate about building scalable and modular systems</h3>
+<h3 style="margin-left: 20px;">    🎮 Unity Game Developer passionate about building scalable and modular systems</h3>
 <h3>    🎓 Student at Miskolci Kandó Kálmán Informatikai Technikum</h3>
 <h3>    🛠️ Self-learning Unity while working on exciting game projects</h3>
 <h3>    🚀 Interested in clean code, procedural generation, and game mechanics</h3>
