@@ -1,3 +1,5 @@
+<div style="background-color: #0D1117; padding: 20px; border: 1px solid #30363d;">
+
 ## 👋 Hi, I'm Máté!
 
 
@@ -28,3 +30,4 @@
 
 If you enjoy my projects and want to support me, consider buying me a coffee!  
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/majorosm_)  
+</div>
