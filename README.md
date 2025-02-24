@@ -3,11 +3,11 @@
 ## 👋 Hi, I'm Máté!
 
 
-#### 🎮 **Unity Game Developer** passionate about building scalable and modular systems  
-### 🎓 **Student at Miskolci Kandó Kálmán Informatikai Technikum**  
-### 🛠️ **Self-learning Unity** while working on exciting game projects  
-### 🚀 **Interested in clean code, procedural generation, and game mechanics**  
-### 💡 **Documenting my journey in game development and continuously learning new techniques**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎮 **Unity Game Developer** passionate about building scalable and modular systems  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎓 **Student at Miskolci Kandó Kálmán Informatikai Technikum**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🛠️ **Self-learning Unity** while working on exciting game projects  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀 **Interested in clean code, procedural generation, and game mechanics**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 **Documenting my journey in game development and continuously learning new techniques**  
 
 
 ## 💻 Tech Stack:
