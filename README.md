@@ -16,11 +16,13 @@
 
 ## 📊 GitHub Stats:
 
-![Máté's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongesz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongesz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)  
+![Máté's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongesz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&border_color=cccccc)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dongesz&theme=dark&hide_border=false&bg_color=00000000&border_color=cccccc)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongesz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&border_color=cccccc)  
 
 ### ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=00000000&hide_border=false)  
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=00000000&hide_border=false&border_color=cccccc)  
 
 ## ☕ Support My Work
 
