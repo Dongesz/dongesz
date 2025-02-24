@@ -2,11 +2,11 @@
 
 <h2>👋 Hi, I'm Máté!</h2>
 
-<h3>🎮 Unity Game Developer passionate about building scalable and modular systems</h3>
-<h3>🎓 Student at Miskolci Kandó Kálmán Informatikai Technikum</h3>
-<h3>🛠️ Self-learning Unity while working on exciting game projects</h3>
-<h3>🚀 Interested in clean code, procedural generation, and game mechanics</h3>
-<h3>💡 Documenting my journey in game development and continuously learning new techniques</h3>
+<h3>    🎮 Unity Game Developer passionate about building scalable and modular systems</h3>
+<h3>    🎓 Student at Miskolci Kandó Kálmán Informatikai Technikum</h3>
+<h3>    🛠️ Self-learning Unity while working on exciting game projects</h3>
+<h3>    🚀 Interested in clean code, procedural generation, and game mechanics</h3>
+<h3>    💡 Documenting my journey in game development and continuously learning new techniques</h3>
 
 <h2>💻 Tech Stack:</h2>
 
@@ -22,9 +22,6 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongesz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000&border_color=cccccc"/>
 
-<h2>✍️ Random Dev Quote</h2>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=00000000&hide_border=false&border_color=cccccc&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 
 <h2>☕ Support My Work</h2>
 
