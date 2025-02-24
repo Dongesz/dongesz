@@ -1,14 +1,13 @@
 ## 👋 Hi, I'm Máté!
 
-<div style="margin-left: 20px;">
-  
+
 ### 🎮 **Unity Game Developer** passionate about building scalable and modular systems  
 ### 🎓 **Student at Miskolci Kandó Kálmán Informatikai Technikum**  
 ### 🛠️ **Self-learning Unity** while working on exciting game projects  
 ### 🚀 **Interested in clean code, procedural generation, and game mechanics**  
 ### 💡 **Documenting my journey in game development and continuously learning new techniques**  
 
-</div>
+
 ## 💻 Tech Stack:
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
@@ -22,7 +21,7 @@
 
 ### ✍️ Random Dev Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=00000000&border_color=00000000)  
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)  
 
 ## ☕ Support My Work
 
