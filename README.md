@@ -1,16 +1,16 @@
 <h2>👋 Hi, I'm Máté!</h2>
 
-<h3>‎ ‎ ‎ ‎ 🎮 Unity Game Developer passionate about building scalable and modular systems</h3>
-<h3>    🎓 Student at Miskolci Kandó Kálmán Informatikai Technikum</h3>
-<h3>    🛠️ Self-learning Unity while working on exciting game projects</h3>
-<h3>    🚀 Interested in clean code, procedural generation, and game mechanics</h3>
-<h3>    💡 Documenting my journey in game development and continuously learning new techniques</h3>
+<h3>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🎮 Unity Game Developer passionate about building scalable and modular systems</h3>
+<h3>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🎓 Student at Miskolci Kandó Kálmán Informatikai Technikum</h3>
+<h3>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🛠️ Self-learning Unity while working on exciting game projects</h3>
+<h3>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🚀 Interested in clean code, procedural generation, and game mechanics</h3>
+<h3>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 💡 Documenting my journey in game development and continuously learning new techniques</h3>
 
 <h2>💻 Tech Stack:</h2>
 
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <h2>📊 GitHub Stats:</h2>
 
