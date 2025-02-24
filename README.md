@@ -15,7 +15,6 @@
 ## 📊 GitHub Stats:
 
 ![Máté's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongesz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dongesz&theme=dark&hide_border=false&bg_color=00000000)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongesz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)  
 
 ### ✍️ Random Dev Quote
