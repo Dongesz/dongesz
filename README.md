@@ -22,7 +22,7 @@
 
 ### ✍️ Random Dev Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=00000000&border_color=CCCCCC)  
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=00000000&border_color=00000000)  
 
 ## ☕ Support My Work
 
