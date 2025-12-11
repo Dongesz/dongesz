@@ -6,17 +6,19 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ‎<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
 
-GitHub Stats:
+<h2>📊 GitHub Stats:</h2>
     ![](https://github-readme-stats.vercel.app/api?username=dongesz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
     ![](https://nirzak-streak-stats.vercel.app/?user=dongesz&theme=dark&hide_border=false)<br/>
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dongesz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2>☕ Support My Work</h2>
 
-   <p>                If you enjoy my projects and want to support me, consider buying me a coffee!</p>
+   <p>If you enjoy my projects and want to support me, consider buying me a coffee!</p>
 
    <a href="https://buymeacoffee.com/majorosm_">
-             <img                 src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+             <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
     </a>
+<br/>
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
