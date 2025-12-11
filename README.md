@@ -13,8 +13,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=dongesz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <h2>☕ Support My Work</h2>
 
    <p>If you enjoy my projects and want to support me, consider buying me a coffee!</p>
