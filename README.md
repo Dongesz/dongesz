@@ -10,9 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=dongesz&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dongesz&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dongesz&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=dongesz&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <h2>☕ Support My Work</h2>
 
    <p>If you enjoy my projects and want to support me, consider buying me a coffee!</p>
