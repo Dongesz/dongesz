@@ -1,9 +1,6 @@
 <table>
   <tr>
     <td width="45%" valign="top">
-      <img src="https://github.com/user-attachments/assets/6c5f381e-02a5-49be-b562-89c269408067" width="100%" />
-    </td>
-    <td width="55%" valign="top">
       <p>
         Hi, I'm <b>Majoros Máté</b>, a 19-year-old software developer student from Hungary.
       </p>
@@ -13,6 +10,9 @@
       <p>
         I mainly work with <b>.NET backend</b> and <b>Unity</b>, and I'm also learning <b>C++</b>.
       </p>
+    </td>
+    <td width="55%" valign="top">
+      <img src="https://github.com/user-attachments/assets/6c5f381e-02a5-49be-b562-89c269408067" width="100%" />
     </td>
   </tr>
 </table>
