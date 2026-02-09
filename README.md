@@ -4,16 +4,13 @@
       <p style="margin: 0 0 12px 0; font-size: 16px; line-height: 1.6; text-align: justify;">
         Hi, I'm <b>Majoros Máté</b>, a 19-year-old software developer student from Hungary.
       </p>
-      
       <p style="margin: 0 0 12px 0; font-size: 16px; line-height: 1.6; text-align: justify;">
         This is my personal GitHub account where I upload both school projects and my own personal projects.
       </p>
-
       <p style="margin: 0; font-size: 16px; line-height: 1.6; text-align: justify;">
         I mainly work with <b>.NET backend</b> and <b>Unity</b>, and I'm also learning <b>C++</b>.
       </p>
     </td>
-
     <td width="55%" valign="top" style="border: none;">
       <img 
         src="https://github.com/user-attachments/assets/6c5f381e-02a5-49be-b562-89c269408067"
