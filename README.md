@@ -4,7 +4,6 @@
       <img src="https://github.com/user-attachments/assets/6c5f381e-02a5-49be-b562-89c269408067" width="100%" />
     </td>
     <td width="55%" valign="top">
-      <h1>dongesz</h1>
       <p>
         Hi, I'm <b>Majoros Máté</b>, a 19-year-old software developer student from Hungary.
       </p>
@@ -35,13 +34,6 @@
 <h2>📊 GitHub Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dongesz&theme=shadow_blue&hide_border=true" />
-</p>
-
-<p>
   <img src="https://nirzak-streak-stats.vercel.app/?user=dongesz&theme=shadow_blue&hide_border=true" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongesz&theme=shadow_blue&hide_border=true&layout=compact" />
-</p>
